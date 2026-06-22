@@ -1,0 +1,396 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link [ref=e4] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e5]:
+        - link "My account" [ref=e7] [cursor=pointer]:
+          - /url: /users/youraccount/personaldetails
+        - generic [ref=e9]:
+          - generic [ref=e10] [cursor=pointer]:
+            - generic [ref=e11]: Products
+            - generic [ref=e12]: 
+          - generic [ref=e13] [cursor=pointer]:
+            - generic [ref=e14]: Solutions
+            - generic [ref=e15]: 
+          - link "Research" [ref=e16] [cursor=pointer]:
+            - /url: /research
+            - generic [ref=e17]: Research
+          - link "Academy" [ref=e18] [cursor=pointer]:
+            - /url: /web-security
+            - generic [ref=e19]: Academy
+          - generic [ref=e20] [cursor=pointer]:
+            - generic [ref=e21]: Support
+            - generic [ref=e22]: 
+          - text: 
+          - generic [ref=e23]:
+            - generic:
+              - link "Customers":
+                - /url: /customers
+                - generic: Customers
+              - link "About":
+                - /url: /about
+                - generic: About
+              - link "Blog":
+                - /url: /blog
+                - generic: Blog
+              - link "Careers":
+                - /url: /careers
+                - generic: Careers
+              - link "Legal":
+                - /url: /legal
+                - generic: Legal
+              - link "Contact":
+                - /url: /contact
+                - generic: Contact
+              - link "Resellers":
+                - /url: /support/reseller-faqs
+                - generic: Resellers
+          - link "Customers":
+            - /url: /customers
+            - generic: Customers
+          - link "About":
+            - /url: /about
+            - generic: About
+          - link "Blog":
+            - /url: /blog
+            - generic: Blog
+          - link "Careers":
+            - /url: /careers
+            - generic: Careers
+          - link "Legal":
+            - /url: /legal
+            - generic: Legal
+          - link "Contact":
+            - /url: /contact
+            - generic: Contact
+          - link "Resellers":
+            - /url: /support/reseller-faqs
+            - generic: Resellers
+          - generic:
+            - generic [ref=e28]:
+              - generic [ref=e29]:
+                - link "Burp Suite DAST Burp Suite DAST The enterprise-enabled dynamic web vulnerability scanner." [ref=e30] [cursor=pointer]:
+                  - /url: /burp/enterprise
+                  - img "Burp Suite DAST" [ref=e31]
+                  - strong [ref=e33]: Burp Suite DAST
+                  - generic [ref=e34]: The enterprise-enabled dynamic web vulnerability scanner.
+                - 'link "Burp Suite Professional Burp Suite Professional The world''s #1 web penetration testing toolkit." [ref=e35] [cursor=pointer]':
+                  - /url: /burp/pro
+                  - img "Burp Suite Professional" [ref=e36]
+                  - strong [ref=e38]: Burp Suite Professional
+                  - generic [ref=e39]: "The world's #1 web penetration testing toolkit."
+                - link "Burp Suite Community Edition Burp Suite Community Edition The best manual tools to start web security testing." [ref=e40] [cursor=pointer]:
+                  - /url: /burp/communitydownload
+                  - img "Burp Suite Community Edition" [ref=e41]
+                  - strong [ref=e43]: Burp Suite Community Edition
+                  - generic [ref=e44]: The best manual tools to start web security testing.
+                - link "View all product editions " [ref=e45] [cursor=pointer]:
+                  - /url: /burp
+              - link "Burp Scanner Burp Suite's web vulnerability scanner Burp Suite's web vulnerability scanner'" [ref=e48] [cursor=pointer]:
+                - /url: /burp/vulnerability-scanner
+                - paragraph [ref=e49]:
+                  - strong [ref=e50]: Burp Scanner
+                - paragraph [ref=e51]: Burp Suite's web vulnerability scanner
+                - img "Burp Suite's web vulnerability scanner'" [ref=e52]
+            - generic [ref=e55]:
+              - generic [ref=e56]:
+                - generic [ref=e57]:
+                  - link "Attack surface visibility Improve security posture, prioritize manual testing, free up time." [ref=e58] [cursor=pointer]:
+                    - /url: /solutions/attack-surface-visibility
+                    - strong [ref=e60]: Attack surface visibility
+                    - generic [ref=e61]: Improve security posture, prioritize manual testing, free up time.
+                  - link "CI-driven scanning More proactive security - find and fix vulnerabilities earlier." [ref=e62] [cursor=pointer]:
+                    - /url: /solutions/ci-driven-scanning
+                    - strong [ref=e64]: CI-driven scanning
+                    - generic [ref=e65]: More proactive security - find and fix vulnerabilities earlier.
+                  - link "Application security testing See how our software enables the world to secure the web." [ref=e66] [cursor=pointer]:
+                    - /url: /solutions
+                    - strong [ref=e68]: Application security testing
+                    - generic [ref=e69]: See how our software enables the world to secure the web.
+                  - link "DevSecOps Catch critical bugs; ship more secure software, more quickly." [ref=e70] [cursor=pointer]:
+                    - /url: /solutions/devsecops
+                    - strong [ref=e72]: DevSecOps
+                    - generic [ref=e73]: Catch critical bugs; ship more secure software, more quickly.
+                  - link "Penetration testing Accelerate penetration testing - find more bugs, more quickly." [ref=e74] [cursor=pointer]:
+                    - /url: /solutions/penetration-testing
+                    - strong [ref=e76]: Penetration testing
+                    - generic [ref=e77]: Accelerate penetration testing - find more bugs, more quickly.
+                  - link "Automated scanning Scale dynamic scanning. Reduce risk. Save time/money." [ref=e78] [cursor=pointer]:
+                    - /url: /solutions/automated-security-testing
+                    - strong [ref=e80]: Automated scanning
+                    - generic [ref=e81]: Scale dynamic scanning. Reduce risk. Save time/money.
+                  - link "Bug bounty hunting Level up your hacking and earn more bug bounties." [ref=e82] [cursor=pointer]:
+                    - /url: /solutions/bug-bounty-hunting
+                    - strong [ref=e84]: Bug bounty hunting
+                    - generic [ref=e85]: Level up your hacking and earn more bug bounties.
+                  - link "Compliance Enhance security monitoring to comply with confidence." [ref=e86] [cursor=pointer]:
+                    - /url: /solutions/compliance
+                    - strong [ref=e88]: Compliance
+                    - generic [ref=e89]: Enhance security monitoring to comply with confidence.
+                - link "View all solutions " [ref=e90] [cursor=pointer]:
+                  - /url: /solutions
+              - link "Product comparison What's the difference between Pro and DAST? Burp Suite Professional vs Burp Suite DAST" [ref=e93] [cursor=pointer]:
+                - /url: /burp/dast/resources/dast-vs-professional
+                - paragraph [ref=e94]:
+                  - strong [ref=e95]: Product comparison
+                - paragraph [ref=e96]: What's the difference between Pro and DAST?
+                - img "Burp Suite Professional vs Burp Suite DAST" [ref=e97]
+            - generic [ref=e100]:
+              - generic [ref=e101]:
+                - generic [ref=e102]:
+                  - link "Support Center Get help and advice from our experts on all things Burp." [ref=e103] [cursor=pointer]:
+                    - /url: /support
+                    - strong [ref=e105]: Support Center
+                    - generic [ref=e106]: Get help and advice from our experts on all things Burp.
+                  - link "Documentation Tutorials and guides for Burp Suite." [ref=e107] [cursor=pointer]:
+                    - /url: /burp/documentation
+                    - strong [ref=e109]: Documentation
+                    - generic [ref=e110]: Tutorials and guides for Burp Suite.
+                  - link "Get Started - Professional Get started with Burp Suite Professional." [ref=e111] [cursor=pointer]:
+                    - /url: /burp/documentation/desktop/getting-started
+                    - strong [ref=e113]: Get Started - Professional
+                    - generic [ref=e114]: Get started with Burp Suite Professional.
+                  - link "Get Started - DAST Get started with Burp Suite DAST." [ref=e115] [cursor=pointer]:
+                    - /url: /burp/documentation/dast/getting-started
+                    - strong [ref=e117]: Get Started - DAST
+                    - generic [ref=e118]: Get started with Burp Suite DAST.
+                  - link "Downloads Download the latest version of Burp Suite." [ref=e119] [cursor=pointer]:
+                    - /url: /burp/releases
+                    - strong [ref=e121]: Downloads
+                    - generic [ref=e122]: Download the latest version of Burp Suite.
+                - link "Visit the Support Center " [ref=e123] [cursor=pointer]:
+                  - /url: /support
+              - link "Downloads Download the latest version of Burp Suite. The latest version of Burp Suite software for download" [ref=e126] [cursor=pointer]:
+                - /url: /burp/releases
+                - paragraph [ref=e127]:
+                  - strong [ref=e128]: Downloads
+                - paragraph [ref=e129]: Download the latest version of Burp Suite.
+                - img "The latest version of Burp Suite software for download" [ref=e130]
+  - navigation [ref=e131]:
+    - text: 
+    - list [ref=e132]:
+      - listitem [ref=e133]:
+        - link "Dashboard" [ref=e134] [cursor=pointer]:
+          - /url: https://portswigger.net/web-security/dashboard
+      - listitem [ref=e135]:
+        - link "Learning paths" [ref=e136] [cursor=pointer]:
+          - /url: https://portswigger.net/web-security/learning-paths
+      - listitem [ref=e137]:
+        - generic [ref=e138] [cursor=pointer]:
+          - generic [ref=e139]: Latest topics
+          - generic [ref=e140]: 
+      - listitem [ref=e141]:
+        - generic [ref=e142] [cursor=pointer]:
+          - generic [ref=e143]: All content
+          - generic [ref=e144]: 
+      - listitem [ref=e145]:
+        - generic [ref=e146] [cursor=pointer]:
+          - generic [ref=e147]: Hall of Fame
+          - generic [ref=e148]: 
+      - listitem [ref=e149]:
+        - link "Get started" [ref=e150] [cursor=pointer]:
+          - /url: https://portswigger.net/web-security/getting-started/index.html
+      - listitem [ref=e151]:
+        - generic [ref=e152] [cursor=pointer]:
+          - generic [ref=e153]: Get certified
+          - generic [ref=e154]: 
+  - generic [ref=e156]:
+    - complementary [ref=e157]:
+      - navigation [ref=e158]:
+        - generic [ref=e159] [cursor=pointer]: 
+        - link " Back to all topics" [ref=e160] [cursor=pointer]:
+          - /url: /web-security/all-topics
+          - generic [ref=e161]: 
+          - text: Back to all topics
+        - generic [ref=e162]: 
+        - list [ref=e163]:
+          - listitem [ref=e164]:
+            - link "What is SQL injection?" [ref=e165] [cursor=pointer]:
+              - /url: /web-security/sql-injection#what-is-sql-injection-sqli
+          - listitem [ref=e166]:
+            - link "What is the impact of SQL injection?" [ref=e167] [cursor=pointer]:
+              - /url: /web-security/sql-injection#what-is-the-impact-of-a-successful-sql-injection-attack
+          - listitem [ref=e168]:
+            - generic [ref=e169] [cursor=pointer]:
+              - link "Detecting SQL injection vulnerabilities" [ref=e170]:
+                - /url: /web-security/sql-injection#how-to-detect-sql-injection-vulnerabilities
+              - generic [ref=e171]: 
+          - listitem [ref=e172]:
+            - generic [ref=e173] [cursor=pointer]:
+              - link "Examples of SQL injection" [ref=e174]:
+                - /url: /web-security/sql-injection#sql-injection-examples
+              - generic [ref=e175]: 
+          - listitem [ref=e176]:
+            - generic [ref=e177] [cursor=pointer]:
+              - link "Examining the database" [ref=e178]:
+                - /url: /web-security/sql-injection/examining-the-database
+              - generic [ref=e179]: 
+          - listitem [ref=e180]:
+            - generic [ref=e181] [cursor=pointer]:
+              - link "UNION attacks" [ref=e182]:
+                - /url: /web-security/sql-injection/union-attacks
+              - generic [ref=e183]: 
+          - listitem [ref=e184]:
+            - generic [ref=e185] [cursor=pointer]:
+              - link "Blind SQL injection" [ref=e186]:
+                - /url: /web-security/sql-injection/blind
+              - generic [ref=e187]: 
+            - text: 
+          - listitem [ref=e188]:
+            - link "How to prevent SQL injection" [ref=e189] [cursor=pointer]:
+              - /url: /web-security/sql-injection#how-to-prevent-sql-injection
+          - listitem [ref=e190]:
+            - link "SQL injection cheat sheet" [ref=e191] [cursor=pointer]:
+              - /url: /web-security/sql-injection/cheat-sheet
+          - listitem [ref=e192]:
+            - link "View all SQL injection labs" [ref=e193] [cursor=pointer]:
+              - /url: /web-security/all-labs#sql-injection
+    - main [ref=e194]:
+      - list [ref=e195]:
+        - listitem [ref=e196]:
+          - link "Web Security Academy" [ref=e197] [cursor=pointer]:
+            - /url: /web-security
+        - listitem [ref=e198]:
+          - text: ">"
+          - link "SQL injection" [ref=e199] [cursor=pointer]:
+            - /url: /web-security/sql-injection
+        - listitem [ref=e200]:
+          - text: ">"
+          - link "Blind" [ref=e201] [cursor=pointer]:
+            - /url: /web-security/sql-injection/blind
+        - listitem [ref=e202]:
+          - text: ">"
+          - link "Lab" [ref=e203] [cursor=pointer]:
+            - /url: /web-security/sql-injection/blind/lab-sql-injection-visible-error-based
+      - generic [ref=e204]:
+        - 'heading "Lab: Visible error-based SQL injection" [level=1] [ref=e205]'
+        - generic [ref=e206]:
+          - generic [ref=e207]:
+            - paragraph [ref=e208]: PRACTITIONER
+            - generic [ref=e209]:
+              - generic [ref=e210]: LAB
+              - generic [ref=e211]: Not solved
+          - generic [ref=e212]:
+            - list [ref=e213] [cursor=pointer]:
+              - listitem [ref=e214]:
+                - link "" [ref=e215]:
+                  - /url: https://twitter.com/share?url=https%3A%2F%2Fportswigger.net%2Fweb-security%2Fsql-injection%2Fblind%2Flab-sql-injection-visible-error-based
+                  - generic [ref=e216]: 
+              - listitem [ref=e217]:
+                - link "" [ref=e218]:
+                  - /url: https://api.whatsapp.com/send?text=https%3A%2F%2Fportswigger.net%2Fweb-security%2Fsql-injection%2Fblind%2Flab-sql-injection-visible-error-based
+                  - generic [ref=e219]: 
+              - listitem [ref=e220]:
+                - link "" [ref=e221]:
+                  - /url: https://reddit.com/submit?url=https%3A%2F%2Fportswigger.net%2Fweb-security%2Fsql-injection%2Fblind%2Flab-sql-injection-visible-error-based
+                  - generic [ref=e222]: 
+              - listitem [ref=e223]:
+                - link "" [ref=e224]:
+                  - /url: https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Fportswigger.net%2Fweb-security%2Fsql-injection%2Fblind%2Flab-sql-injection-visible-error-based
+                  - generic [ref=e225]: 
+              - listitem [ref=e226]:
+                - link "" [ref=e227]:
+                  - /url: mailto:?subject=https%3A%2F%2Fportswigger.net%2Fweb-security%2Fsql-injection%2Fblind%2Flab-sql-injection-visible-error-based&body=https%3A%2F%2Fportswigger.net%2Fweb-security%2Fsql-injection%2Fblind%2Flab-sql-injection-visible-error-based
+                  - generic [ref=e228]: 
+              - listitem [ref=e229]:
+                - link "" [ref=e230]:
+                  - /url: /research/rss
+                  - generic [ref=e231]: 
+            - generic [ref=e233] [cursor=pointer]: 
+        - paragraph [ref=e234]: This lab contains a SQL injection vulnerability. The application uses a tracking cookie for analytics, and performs a SQL query containing the value of the submitted cookie. The results of the SQL query are not returned.
+        - paragraph [ref=e235]:
+          - text: The database contains a different table called
+          - code [ref=e236]: users
+          - text: ", with columns called"
+          - code [ref=e237]: username
+          - text: and
+          - code [ref=e238]: password
+          - text: . To solve the lab, find a way to leak the password for the
+          - code [ref=e239]: administrator
+          - text: user, then log in to their account.
+        - link " ACCESS THE LAB" [active] [ref=e241] [cursor=pointer]:
+          - /url: /academy/labs/launch/706318b8f1857a10698288c9bf7712276e4ab38822541edeb0385a44da54de78?referrer=%2fweb-security%2fsql-injection%2fblind%2flab-sql-injection-visible-error-based
+          - generic [ref=e242]: 
+          - text: ACCESS THE LAB
+        - group [ref=e244]:
+          - generic "豈 Solution" [ref=e245] [cursor=pointer]:
+            - heading "豈 Solution" [level=4] [ref=e246]:
+              - generic [ref=e247]: 豈
+              - text: Solution
+        - group [ref=e249]:
+          - generic "更 Community solutions" [ref=e250] [cursor=pointer]:
+            - heading "更 Community solutions" [level=4] [ref=e251]:
+              - generic [ref=e252]: 更
+              - text: Community solutions
+      - generic [ref=e254]:
+        - img "Try Burp Suite for Free" [ref=e255]
+        - heading "Find SQL injection vulnerabilities using Burp Suite" [level=4] [ref=e256]
+        - link "Try for free" [ref=e257] [cursor=pointer]:
+          - /url: https://portswigger.net/burp
+  - contentinfo [ref=e258]:
+    - generic [ref=e259]:
+      - generic [ref=e260]:
+        - paragraph [ref=e261]: Burp Suite
+        - link "Web vulnerability scanner" [ref=e262] [cursor=pointer]:
+          - /url: /burp/vulnerability-scanner
+        - link "Burp Suite Editions" [ref=e263] [cursor=pointer]:
+          - /url: /burp
+        - link "Release Notes" [ref=e264] [cursor=pointer]:
+          - /url: /burp/releases
+      - generic [ref=e265]:
+        - paragraph [ref=e266]: Vulnerabilities
+        - link "Cross-site scripting (XSS)" [ref=e267] [cursor=pointer]:
+          - /url: /web-security/cross-site-scripting
+        - link "SQL injection" [ref=e268] [cursor=pointer]:
+          - /url: /web-security/sql-injection
+        - link "Cross-site request forgery" [ref=e269] [cursor=pointer]:
+          - /url: /web-security/csrf
+        - link "XML external entity injection" [ref=e270] [cursor=pointer]:
+          - /url: /web-security/xxe
+        - link "Directory traversal" [ref=e271] [cursor=pointer]:
+          - /url: /web-security/file-path-traversal
+        - link "Server-side request forgery" [ref=e272] [cursor=pointer]:
+          - /url: /web-security/ssrf
+      - generic [ref=e273]:
+        - paragraph [ref=e274]: Customers
+        - link "Organizations" [ref=e275] [cursor=pointer]:
+          - /url: /organizations
+        - link "Testers" [ref=e276] [cursor=pointer]:
+          - /url: /testers
+        - link "Developers" [ref=e277] [cursor=pointer]:
+          - /url: /developers
+      - generic [ref=e278]:
+        - paragraph [ref=e279]: Company
+        - link "About" [ref=e280] [cursor=pointer]:
+          - /url: /about
+        - link "Careers" [ref=e281] [cursor=pointer]:
+          - /url: /careers
+        - link "Contact" [ref=e282] [cursor=pointer]:
+          - /url: /about/contact
+        - link "Legal" [ref=e283] [cursor=pointer]:
+          - /url: /legal
+        - link "Privacy Notice" [ref=e284] [cursor=pointer]:
+          - /url: /privacy
+        - link "Modern Slavery Statement" [ref=e285] [cursor=pointer]:
+          - /url: /modern-slavery-statement
+      - generic [ref=e286]:
+        - paragraph [ref=e287]: Insights
+        - link "Web Security Academy" [ref=e288] [cursor=pointer]:
+          - /url: /web-security
+        - link "Blog" [ref=e289] [cursor=pointer]:
+          - /url: /blog
+        - link "Research" [ref=e290] [cursor=pointer]:
+          - /url: /research
+      - generic [ref=e291]:
+        - link "PortSwigger Logo" [ref=e292] [cursor=pointer]:
+          - /url: /
+          - img "PortSwigger Logo" [ref=e293]
+        - link " Follow us" [ref=e294] [cursor=pointer]:
+          - /url: https://twitter.com/Burp_Suite
+          - generic [ref=e295]: 
+          - text: Follow us
+        - paragraph [ref=e296]: © 2026 PortSwigger Ltd.
+  - link [ref=e297] [cursor=pointer]:
+    - /url: "#top"
+    - img [ref=e298]

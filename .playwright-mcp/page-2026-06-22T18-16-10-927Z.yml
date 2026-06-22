@@ -1,0 +1,156 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e6]:
+      - heading "Exploiting XXE to retrieve data by repurposing a local DTD" [level=2] [ref=e7]
+      - link "Back to lab description back-arrow" [ref=e8] [cursor=pointer]:
+        - /url: https://portswigger.net/web-security/xxe/blind/lab-xxe-trigger-error-message-by-repurposing-local-dtd
+        - text: Back to lab description
+        - img "back-arrow" [ref=e9]
+    - generic [ref=e13]:
+      - generic [ref=e14]: LAB
+      - paragraph [ref=e15]: Not solved
+  - generic [ref=e19]:
+    - link "Home" [ref=e22] [cursor=pointer]:
+      - /url: /
+    - img [ref=e24]
+    - generic [ref=e25]:
+      - generic [ref=e26]:
+        - img [ref=e27]
+        - heading "Roulette Drinking Game" [level=3] [ref=e28]
+        - img [ref=e29]
+        - text: $18.62
+        - link "View details" [ref=e30] [cursor=pointer]:
+          - /url: /product?productId=1
+      - generic [ref=e31]:
+        - img [ref=e32]
+        - heading "Hydrated Crackers" [level=3] [ref=e33]
+        - img [ref=e34]
+        - text: $65.56
+        - link "View details" [ref=e35] [cursor=pointer]:
+          - /url: /product?productId=2
+      - generic [ref=e36]:
+        - img [ref=e37]
+        - heading "Giant Pillow Thing" [level=3] [ref=e38]
+        - img [ref=e39]
+        - text: $59.24
+        - link "View details" [ref=e40] [cursor=pointer]:
+          - /url: /product?productId=3
+      - generic [ref=e41]:
+        - img [ref=e42]
+        - heading "High-End Gift Wrapping" [level=3] [ref=e43]
+        - img [ref=e44]
+        - text: $41.00
+        - link "View details" [ref=e45] [cursor=pointer]:
+          - /url: /product?productId=4
+      - generic [ref=e46]:
+        - img [ref=e47]
+        - heading "Caution Sign" [level=3] [ref=e48]
+        - img [ref=e49]
+        - text: $53.56
+        - link "View details" [ref=e50] [cursor=pointer]:
+          - /url: /product?productId=5
+      - generic [ref=e51]:
+        - img [ref=e52]
+        - heading "Paintball Gun - Thunder Striker" [level=3] [ref=e53]
+        - img [ref=e54]
+        - text: $68.26
+        - link "View details" [ref=e55] [cursor=pointer]:
+          - /url: /product?productId=6
+      - generic [ref=e56]:
+        - img [ref=e57]
+        - heading "Waterproof Tea Bags" [level=3] [ref=e58]
+        - img [ref=e59]
+        - text: $2.78
+        - link "View details" [ref=e60] [cursor=pointer]:
+          - /url: /product?productId=7
+      - generic [ref=e61]:
+        - img [ref=e62]
+        - heading "Cheshire Cat Grin" [level=3] [ref=e63]
+        - img [ref=e64]
+        - text: $83.40
+        - link "View details" [ref=e65] [cursor=pointer]:
+          - /url: /product?productId=8
+      - generic [ref=e66]:
+        - img [ref=e67]
+        - heading "Couple's Umbrella" [level=3] [ref=e68]
+        - img [ref=e69]
+        - text: $55.20
+        - link "View details" [ref=e70] [cursor=pointer]:
+          - /url: /product?productId=9
+      - generic [ref=e71]:
+        - img [ref=e72]
+        - heading "Com-Tool" [level=3] [ref=e73]
+        - img [ref=e74]
+        - text: $88.80
+        - link "View details" [ref=e75] [cursor=pointer]:
+          - /url: /product?productId=10
+      - generic [ref=e76]:
+        - img [ref=e77]
+        - heading "Potato Theater" [level=3] [ref=e78]
+        - img [ref=e79]
+        - text: $28.16
+        - link "View details" [ref=e80] [cursor=pointer]:
+          - /url: /product?productId=11
+      - generic [ref=e81]:
+        - img [ref=e82]
+        - heading "Sprout More Brain Power" [level=3] [ref=e83]
+        - img [ref=e84]
+        - text: $1.19
+        - link "View details" [ref=e85] [cursor=pointer]:
+          - /url: /product?productId=12
+      - generic [ref=e86]:
+        - img [ref=e87]
+        - heading "Six Pack Beer Belt" [level=3] [ref=e88]
+        - img [ref=e89]
+        - text: $34.59
+        - link "View details" [ref=e90] [cursor=pointer]:
+          - /url: /product?productId=13
+      - generic [ref=e91]:
+        - img [ref=e92]
+        - heading "Conversation Controlling Lemon" [level=3] [ref=e93]
+        - img [ref=e94]
+        - text: $10.40
+        - link "View details" [ref=e95] [cursor=pointer]:
+          - /url: /product?productId=14
+      - generic [ref=e96]:
+        - img [ref=e97]
+        - heading "The Giant Enter Key" [level=3] [ref=e98]
+        - img [ref=e99]
+        - text: $32.49
+        - link "View details" [ref=e100] [cursor=pointer]:
+          - /url: /product?productId=15
+      - generic [ref=e101]:
+        - img [ref=e102]
+        - heading "Inflatable Dartboard" [level=3] [ref=e103]
+        - img [ref=e104]
+        - text: $53.25
+        - link "View details" [ref=e105] [cursor=pointer]:
+          - /url: /product?productId=16
+      - generic [ref=e106]:
+        - img [ref=e107]
+        - heading "BBQ Suitcase" [level=3] [ref=e108]
+        - img [ref=e109]
+        - text: $17.33
+        - link "View details" [ref=e110] [cursor=pointer]:
+          - /url: /product?productId=17
+      - generic [ref=e111]:
+        - img [ref=e112]
+        - heading "ZZZZZZ Bed - Your New Home Office" [level=3] [ref=e113]
+        - img [ref=e114]
+        - text: $80.44
+        - link "View details" [ref=e115] [cursor=pointer]:
+          - /url: /product?productId=18
+      - generic [ref=e116]:
+        - img [ref=e117]
+        - heading "Snow Delivered To Your Door" [level=3] [ref=e118]
+        - img [ref=e119]
+        - text: $0.44
+        - link "View details" [ref=e120] [cursor=pointer]:
+          - /url: /product?productId=19
+      - generic [ref=e121]:
+        - img [ref=e122]
+        - heading "Folding Gadgets" [level=3] [ref=e123]
+        - img [ref=e124]
+        - text: $40.53
+        - link "View details" [ref=e125] [cursor=pointer]:
+          - /url: /product?productId=20

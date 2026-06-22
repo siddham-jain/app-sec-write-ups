@@ -1,0 +1,25 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e6]:
+      - heading "Blind SQL injection with conditional errors" [level=2] [ref=e7]
+      - link "Back to lab description back-arrow" [ref=e8] [cursor=pointer]:
+        - /url: https://portswigger.net/web-security/sql-injection/blind/lab-conditional-errors
+        - text: Back to lab description
+        - img "back-arrow" [ref=e9]
+    - generic [ref=e13]:
+      - generic [ref=e14]: LAB
+      - paragraph [ref=e15]: Not solved
+  - generic [ref=e19]:
+    - generic [ref=e21]:
+      - link "Home" [ref=e22] [cursor=pointer]:
+        - /url: /
+      - paragraph [ref=e23]: "|"
+      - link "My account" [ref=e24] [cursor=pointer]:
+        - /url: /my-account
+    - heading "Login" [level=1] [ref=e25]
+    - generic [ref=e27]:
+      - generic [ref=e28]: Username
+      - textbox [active] [ref=e29]
+      - generic [ref=e30]: Password
+      - textbox [ref=e31]
+      - button "Log in" [ref=e32]
