@@ -20,7 +20,7 @@ stockApi=http://stock.weliketoshop.net:8080/product/stock/check?productId=1&stor
 
 That URL looked completely user-controlled. If the server was willing to fetch whatever I put in there, I could probably make it talk to places it was not supposed to reach.
 
-![Original Stock Request](images/original_stock_request.png)
+![Original Stock Request](images/original-stock-request.png)
 
 ---
 
@@ -38,7 +38,7 @@ The response came back with the internal administration panel. I could not belie
 /admin/delete?username=carlos
 ```
 
-![Admin Panel Access](images/admin_panel_discovered.png)
+![Admin Panel Access](images/admin-panel-discovered.png)
 
 At this point I knew the app was blindly trusting the URL I gave it. The server happily made a request to its own admin interface on my behalf.
 
@@ -58,7 +58,7 @@ I sent it and watched the server perform the action. No extra auth step, no IP r
 
 A second later the lab updated itself and showed the green solved banner.
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 

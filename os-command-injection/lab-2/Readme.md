@@ -40,15 +40,15 @@ I sent the modified request and started counting. The response took approximatel
 
 Here is the original request for reference:
 
-![Original Feedback Request](images/original_feedback_request.png)
+![Original Feedback Request](images/original-feedback-request.png)
 
 And the delayed response:
 
-![Time Delay Observed](images/time_delay_observed.png)
+![Time Delay Observed](images/time-delay-observed.png)
 
 The lab immediately marked itself as solved.
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 

@@ -89,7 +89,7 @@ The victim's email address was modified without their knowledge or consent. The 
 
 A malicious HTML form created to automatically submit a forged request to the email change endpoint. The exploit contains a hidden email parameter and an auto-submit script.
 
-![CSRF PoC](images/csrf_poc.png)
+![CSRF PoC](images/csrf-poc.png)
 
 ---
 
@@ -99,7 +99,7 @@ A malicious HTML form created to automatically submit a forged request to the em
 
 After visiting the exploit page, the email address associated with the authenticated account was changed to the value I controlled.
 
-![Email Changed](images/email_changed.png)
+![Email Changed](images/email-change-page.png)
 
 ---
 
@@ -109,7 +109,7 @@ After visiting the exploit page, the email address associated with the authentic
 
 PortSwigger confirmed successful exploitation of the CSRF vulnerability.
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 

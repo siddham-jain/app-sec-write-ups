@@ -34,7 +34,7 @@ Username: wiener
 Password: peter
 ```
 
-**Screenshot:** `images/login_success.png`
+**Screenshot:** `images/login-success.png`
 
 ---
 
@@ -42,7 +42,7 @@ Password: peter
 
 I looked for the cheapest product in the store and added it to my cart.
 
-**Screenshot:** `images/cheap_item_added.png`
+**Screenshot:** `images/cheap-item-added.png`
 
 ---
 
@@ -62,7 +62,7 @@ With parameters:
 productId=2&quantity=1
 ```
 
-**Screenshot:** `images/original_quantity_request.png`
+**Screenshot:** `images/original-quantity-request.png`
 
 ---
 
@@ -89,7 +89,7 @@ Total: -$X.XX
 
 That negative balance effectively became store credit. I couldn't believe it actually worked.
 
-**Screenshot:** `images/negative_cart_total.png`
+**Screenshot:** `images/negative-cart-total.png`
 
 ---
 
@@ -103,7 +103,7 @@ Lightweight l33t leather jacket
 
 The negative cart balance offset the jacket price, bringing the total down to something I could actually afford.
 
-**Screenshot:** `images/jacket_added.png`
+**Screenshot:** `images/jacket-added.png`
 
 ---
 
@@ -111,7 +111,7 @@ The negative cart balance offset the jacket price, bringing the total down to so
 
 I proceeded to checkout and placed the order. The manipulated cart total allowed the purchase to go through successfully.
 
-**Screenshot:** `images/lab_solved.png`
+**Screenshot:** `images/lab-solved.png`
 
 ---
 

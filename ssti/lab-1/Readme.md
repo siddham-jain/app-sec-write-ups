@@ -103,11 +103,11 @@ The lab lit up as solved.
 
 ### When the SSTI Confirmed (7 × 7 = 49)
 
-![SSTI Confirmation](images/ssti_confirmation.png)
+![SSTI Confirmation](images/ssti-confirmation.png)
 
 ### Lab Solved
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 

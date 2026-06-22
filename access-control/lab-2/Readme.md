@@ -39,7 +39,7 @@ There it was. The "unpredictable" admin URL was sitting right there in the clien
 
 ### Screenshot
 
-![Source Code Disclosure](images/source_code_admin_url.png)
+![Source Code Disclosure](images/source-code-admin-url.png)
 
 ---
 
@@ -73,7 +73,7 @@ The target user was successfully deleted and the lab was marked as solved.
 
 ### Screenshot
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 

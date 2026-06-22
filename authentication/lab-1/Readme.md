@@ -119,7 +119,7 @@ Incorrect password
 
 indicating that the username exists within the application.
 
-![Username Enumeration](images/username_enumeration.png)
+![Username Enumeration](images/username-enumeration.png)
 
 ---
 
@@ -129,7 +129,7 @@ indicating that the username exists within the application.
 
 Burp Intruder attack against candidate passwords for the identified username. The password `batman` generated a `302 Found` response, indicating successful authentication.
 
-![Password Discovery](images/password_found.png)
+![Password Discovery](images/password-found.png)
 
 ---
 
@@ -139,7 +139,7 @@ Burp Intruder attack against candidate passwords for the identified username. Th
 
 Successful login using the identified credentials and completion of the PortSwigger lab.
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 

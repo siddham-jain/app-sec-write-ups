@@ -67,7 +67,7 @@ So wiener was definitely not an admin.
 
 ### Screenshot
 
-![Admin Access Denied](images/admin_access_denied.png)
+![Admin Access Denied](images/admin-access-denied.png)
 
 ---
 
@@ -139,7 +139,7 @@ I sent the modified request again. This time, the application handed me admin ac
 
 ### Screenshot
 
-![Admin Access](images/admin_access.png)
+![Admin Access](images/admin-access.png)
 
 ---
 
@@ -155,7 +155,7 @@ I sent the request using my forged administrator JWT, and Carlos was deleted suc
 
 ### Screenshot
 
-![Carlos Deleted](images/carlos_deleted.png)
+![Carlos Deleted](images/carlos-deleted.png)
 
 ---
 
@@ -165,7 +165,7 @@ After deleting Carlos, the lab marked itself as solved.
 
 ### Screenshot
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 

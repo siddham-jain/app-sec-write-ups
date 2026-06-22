@@ -39,7 +39,7 @@ I had to smile at that. Someone thought hiding the admin panel from search engin
 
 ### Screenshot
 
-![robots.txt](images/robots.txt.png)
+![robots.txt](images/robots-txt.png)
 
 ---
 
@@ -55,7 +55,7 @@ The application didn't even ask me to log in again. It just showed me the full a
 
 ### Screenshot
 
-![Admin Panel](images/admin_panel.png)
+![Admin Panel](images/admin-panel.png)
 
 ---
 
@@ -77,7 +77,7 @@ The target user was successfully deleted and the lab was marked as solved.
 
 ### Screenshot
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 

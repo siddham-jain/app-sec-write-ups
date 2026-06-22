@@ -98,7 +98,7 @@ administrator'--
 
 **Insert Screenshot Below**
 
-![Authentication Bypass Request](images/login_payload.png)
+![Authentication Bypass Request](images/login-payload.png)
 
 ---
 
@@ -117,7 +117,7 @@ Congratulations, you solved the lab!
 
 **Insert Screenshot Below**
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 

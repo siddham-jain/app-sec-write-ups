@@ -66,7 +66,7 @@ Then I sent the modified request to the server.
 
 ### Screenshot
 
-![XXE Payload](images/xxe_payload.png)
+![XXE Payload](images/xxe-payload.png)
 
 ---
 
@@ -86,7 +86,7 @@ That confirmed the application had just handed me the server's user file.
 
 ### Screenshot
 
-![File Disclosure](images/passwd_disclosure.png)
+![File Disclosure](images/passwd-disclosure.png)
 
 ---
 
@@ -96,7 +96,7 @@ Once the file contents showed up in the response, the lab automatically marked i
 
 ### Screenshot
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 

@@ -99,7 +99,7 @@ The application failed to verify whether I had successfully completed the second
 
 After successful login using valid credentials, the application redirects the user to the 2FA verification page and requests a security code.
 
-![2FA Verification Page](images/2fa_prompt.png)
+![2FA Verification Page](images/2fa-prompt.png)
 
 ---
 
@@ -109,7 +109,7 @@ After successful login using valid credentials, the application redirects the us
 
 The victim account (`carlos`) is redirected to the same 2FA verification page after successful credential validation.
 
-![Victim 2FA Challenge](images/carlos_2fa_prompt.png)
+![Victim 2FA Challenge](images/carlos-2fa-prompt.png)
 
 ---
 
@@ -119,7 +119,7 @@ The victim account (`carlos`) is redirected to the same 2FA verification page af
 
 I manually navigated to the account page without providing a valid security code and successfully gained access to the protected account.
 
-![2FA Bypass Successful](images/2fa_bypass_success.png)
+![2FA Bypass Successful](images/2fa-bypass-success.png)
 
 ---
 

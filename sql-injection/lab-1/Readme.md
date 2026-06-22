@@ -75,7 +75,7 @@ The `OR 1=1` part made the entire `WHERE` clause evaluate to true for every sing
 
 **Insert Screenshot Below**
 
-![Burp Request Response](images/request_response.png)
+![Burp Request Response](images/request-response.png)
 
 ---
 
@@ -90,7 +90,7 @@ The `OR 1=1` part made the entire `WHERE` clause evaluate to true for every sing
 
 **Insert Screenshot Below**
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 

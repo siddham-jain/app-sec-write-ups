@@ -89,7 +89,7 @@ The browser interpreted the stored payload as executable JavaScript because the 
 
 I submitted a blog comment containing a malicious JavaScript payload. The payload was accepted by the application and stored on the server.
 
-![Payload Submission](images/payload_submission.png)
+![Payload Submission](images/payload-submission.png)
 
 ---
 
@@ -99,7 +99,7 @@ I submitted a blog comment containing a malicious JavaScript payload. The payloa
 
 After the stored payload executed when the page was viewed, the PortSwigger lab confirmed successful exploitation of the Stored XSS vulnerability.
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 

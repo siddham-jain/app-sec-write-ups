@@ -30,7 +30,7 @@ I navigated to the account page, changed my email address, and captured the requ
 
 ### Screenshot
 
-![Original Request](images/original_request.png)
+![Original Request](images/original-request.png)
 
 ---
 
@@ -49,7 +49,7 @@ I sent the request and watched the response. It got rejected. Good, the token va
 
 ### Screenshot
 
-![Token Validation Failure](images/token_validation_failure.png)
+![Token Validation Failure](images/token-validation-failure.png)
 
 ---
 
@@ -65,7 +65,7 @@ I sent it. The email address updated successfully. I couldn't believe it. The ap
 
 ### Screenshot
 
-![GET Request Bypass](images/get_request_bypass.png)
+![GET Request Bypass](images/get-request-bypass.png)
 
 ---
 
@@ -91,7 +91,7 @@ document.forms[0].submit();
 
 ### Screenshot
 
-![CSRF PoC](images/csrf_poc.png)
+![CSRF PoC](images/csrf-poc.png)
 
 ---
 
@@ -101,7 +101,7 @@ I stored the exploit on the exploit server, delivered it to the victim, and watc
 
 ### Screenshot
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 

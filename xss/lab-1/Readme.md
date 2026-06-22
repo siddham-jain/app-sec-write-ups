@@ -74,7 +74,7 @@ The browser executed my injected JavaScript because the application failed to pe
 
 I typed the malicious XSS payload into the search field before submitting it.
 
-![Payload Submission](images/payload_submission.png)
+![Payload Submission](images/payload-submission.png)
 
 ---
 
@@ -84,7 +84,7 @@ I typed the malicious XSS payload into the search field before submitting it.
 
 My injected JavaScript executed successfully and displayed an alert dialog, confirming reflected XSS.
 
-![Alert Execution](images/xss_alert_execution.png)
+![Alert Execution](images/xss-alert-execution.png)
 
 ---
 
@@ -94,7 +94,7 @@ My injected JavaScript executed successfully and displayed an alert dialog, conf
 
 The PortSwigger lab confirmed successful exploitation of the vulnerability.
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 

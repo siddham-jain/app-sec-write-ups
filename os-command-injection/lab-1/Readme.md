@@ -36,11 +36,11 @@ The response included the output of the `whoami` command. I could see the exact 
 
 Here is the command execution in action:
 
-![Command Execution](images/command_execution.png)
+![Command Execution](images/command-execution.png)
 
 And the lab solved confirmation:
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 

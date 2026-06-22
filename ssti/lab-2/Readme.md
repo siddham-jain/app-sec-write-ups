@@ -51,7 +51,7 @@ That was all the proof I needed — SSTI confirmed.
 
 ### Screenshot
 
-![SSTI Confirmation](images/ssti_confirmation.png)
+![SSTI Confirmation](images/ssti-confirmation.png)
 
 ---
 
@@ -84,7 +84,7 @@ The file was deleted, and the lab marked itself as solved.
 
 ### Screenshot
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 

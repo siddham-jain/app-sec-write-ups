@@ -43,7 +43,7 @@ POST /forgot-password
 
 #### Evidence
 
-![Forgot Password Request](./images/forgot_password_request.png)
+![Forgot Password Request](./images/forgot-password-request.png)
 
 ---
 
@@ -63,7 +63,7 @@ Invalid username
 
 #### Evidence
 
-![Invalid Username Error](./images/invalid_username_error.png)
+![Invalid Username Error](./images/invalid-username-error.png)
 
 ---
 
@@ -91,7 +91,7 @@ as a separate parameter.
 
 #### Evidence
 
-![Parameter Pollution Test](./images/parameter_pollution_test.png)
+![Parameter Pollution Test](./images/parameter-pollution-test.png)
 
 ---
 
@@ -117,7 +117,7 @@ field
 
 #### Evidence
 
-![Field Parameter Discovered](./images/field_parameter_discovered.png)
+![Field Parameter Discovered](./images/field-parameter-discovered.png)
 
 ---
 
@@ -141,7 +141,7 @@ Results showed several valid fields returning HTTP 200 responses.
 
 #### Evidence
 
-![Field Enumeration](./images/field_enumeration.png)
+![Field Enumeration](./images/field-enumeration.png)
 
 ---
 
@@ -157,7 +157,7 @@ The response returned the administrator's password reset token.
 
 #### Evidence
 
-![Reset Token Extracted](./images/reset_token_extracted.png)
+![Reset Token Extracted](./images/reset-token-extracted.png)
 
 ---
 
@@ -204,7 +204,7 @@ The vulnerability allowed backend parameter manipulation through URL query pollu
 
 ### Evidence
 
-![Lab Solved](./images/Lab_solved.png)
+![Lab Solved](./images/lab-solved.png)
 
 ---
 

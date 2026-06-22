@@ -43,7 +43,7 @@ I updated the email address from the account page and captured the resulting API
 
 #### Evidence
 
-![API User Request](images/api_user_request.png)
+![API User Request](images/api-user-request.png)
 
 ---
 
@@ -61,7 +61,7 @@ The documentation revealed available API operations and request formats.
 
 #### Evidence
 
-![API Documentation](images/api_documentation.png)
+![API Documentation](images/api-documentation.png)
 
 ---
 
@@ -89,7 +89,7 @@ The privileged API functionality was accessible through exposed documentation, a
 
 ### Evidence
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 

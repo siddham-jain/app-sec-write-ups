@@ -44,7 +44,7 @@ http://169.254.169.254/
 
 ### Screenshot
 
-![Stock Check Request](images/stock_check_request.png)
+![Stock Check Request](images/xxe-ssrf-discovery.png)
 
 ---
 
@@ -81,7 +81,7 @@ admin
 
 ### Screenshot
 
-![IAM Role Enumeration](images/iam_role_discovered.png)
+![IAM Role Enumeration](images/iam-role-discovered.png)
 
 ---
 
@@ -117,7 +117,7 @@ The response returned AWS credential information including:
 
 ### Screenshot
 
-![Secret Access Key Retrieved](images/secret_access_key.png)
+![Secret Access Key Retrieved](images/secret-access-key.png)
 
 ---
 
@@ -127,7 +127,7 @@ After retrieving the IAM credentials, the lab automatically marked itself as sol
 
 ### Screenshot
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 

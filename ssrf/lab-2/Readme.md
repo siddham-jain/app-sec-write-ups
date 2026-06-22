@@ -18,7 +18,7 @@ stockApi=http://stock.weliketoshop.net:8080/product/stock/check?productId=1&stor
 
 I sent the request to Intruder this time because I knew I would need to brute-force IP addresses.
 
-![Original Stock Request](images/original_stock_request.png)
+![Original Stock Request](images/original-stock-request.png)
 
 ---
 
@@ -38,7 +38,7 @@ I highlighted the last octet of the IP and told Intruder to cycle through number
 
 using the **Numbers** payload type. It was a simple setup, but scanning an entire /24 range takes a moment.
 
-![Intruder Setup](images/intruder_setup.png)
+![Intruder Setup](images/intruder-setup.png)
 
 ---
 
@@ -48,7 +48,7 @@ I started the Intruder attack and let it run. Most of the responses came back wi
 
 The response body contained the admin panel, and just like the previous lab, it had functionality for deleting users.
 
-![Admin Interface](images/admin_interface.png)
+![Admin Interface](images/admin-interface.png)
 
 ---
 
@@ -68,7 +68,7 @@ The server made the request internally and deleted the target user. No muss, no 
 
 A moment later the lab marked itself as solved.
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 

@@ -67,7 +67,7 @@ I stared at that `price=133700` parameter for a second. The price was being sent
 
 ### Screenshot
 
-![Cart Price Parameter](images/cart_price_parameter.png)
+![Cart Price Parameter](images/cart-price-parameter.png)
 
 ---
 
@@ -109,7 +109,7 @@ I hit Send, and the server accepted it. No validation, no complaints, nothing. I
 
 ### Screenshot
 
-![Modified Price Request](images/modified_price_request.png)
+![Modified Price Request](images/modified-price-request.png)
 
 ---
 
@@ -125,7 +125,7 @@ The server had trusted the client-side price parameter completely. It didn't ver
 
 ### Screenshot
 
-![Discounted Cart](images/discounted_cart.png)
+![Discounted Cart](images/discounted-cart.png)
 
 ---
 
@@ -151,7 +151,7 @@ After the purchase completed, the lab marked itself as solved. That was it.
 
 ### Screenshot
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 

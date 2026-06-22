@@ -45,7 +45,7 @@ I opened the request in Burp Suite and found the JWT sitting in the session cook
 
 ### Screenshot
 
-![JWT Cookie](images/jwt_cookie.png)
+![JWT Cookie](images/jwt-cookie.png)
 
 ---
 
@@ -67,7 +67,7 @@ That made sense — I was logged in as wiener, not an admin.
 
 ### Screenshot
 
-![Admin Access Denied](images/admin_access_denied.png)
+![Admin Access Denied](images/admin-access-denied.png)
 
 ---
 
@@ -103,7 +103,7 @@ This time, the application let me right into the admin panel.
 
 ### Screenshot
 
-![Admin Access](images/admin_access.png)
+![Admin Access](images/admin-access.png)
 
 ---
 
@@ -119,7 +119,7 @@ I fired off the request, and Carlos was gone.
 
 ### Screenshot
 
-![Carlos Deleted](images/carlos_deleted.png)
+![Carlos Deleted](images/carlos-deleted.png)
 
 ---
 
@@ -129,7 +129,7 @@ After deleting Carlos, the lab confirmed it was solved.
 
 ### Screenshot
 
-![Lab Solved](images/lab_solved.png)
+![Lab Solved](images/lab-solved.png)
 
 ---
 
